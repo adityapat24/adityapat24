@@ -1,16 +1,6 @@
 ### Hi there 👋
 
-<!--
-**adityapat24/adityapat24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on helping Dillan with Stats
-- 🌱 I’m currently learning how to use this website
-- 👯 I’m looking to collaborate on Battleship programs
-- 🤔 I’m looking for help with formatting code
-- 💬 Ask me about syntax
-- 📫 How to reach me: Email
-- 😄 Pronouns: he/her
-- ⚡ Fun fact: I write a lot
--->
+Welcome to my GitHub! I'm a Computer Science student at Northeastern University with a strong interest in full-stack development, API design, and software development 
+I'm passionate about building efficient, scalable, and user-friendly software that solves real-world problems. The pinned repositories highlight my work for organizations
+HackBeanpot and Code4Community and also contain additional software development projects done as final projects for classes. Upon request, access will be given to repositories
+containing CS2510 and CS3500 work.
