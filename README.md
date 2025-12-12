@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AWS and C**
 
-- 📫 How to reach me **pathak.adit@northeastern.edu**
+- 📫 Reach me at **pathak.adit@northeastern.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
